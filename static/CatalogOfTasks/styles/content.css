@@ -110,7 +110,7 @@
 
 .content-section .tasks-section article .info-section .stats-section {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     gap: 10px;
     width: 100%;
     height: 64px;
