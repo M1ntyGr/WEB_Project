@@ -86,7 +86,7 @@
 
 .content-section .variants-section article .stats-section .type {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     width: 30%;
     margin-right: 8px;
     margin-top: 8px;
@@ -108,7 +108,7 @@
 .content-section .variants-section .button-class {
     display: flex;
     height: 100%;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .content-section .variants-section article button {
